@@ -1,4 +1,4 @@
-<img align="left" width="666" height="666" src="heavy_load.jpeg">
+<img align="left" width="666" height="666" src="0001.png">
 
 # Херовата
 
