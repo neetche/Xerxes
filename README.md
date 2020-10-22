@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" url="https://raw.githubusercontent.com/b0r3dd3v/scraptor/master/heavy_load.jpeg">
+<img align="left" width="666" height="666" src="heavy_load.jpeg">
 
 # Херовата
 
@@ -8,9 +8,7 @@
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://goatse.cc)
 [![Version: 2.0beta](https://img.shields.io/badge/Version-2.0beta-blue.svg)](https://goatse.cc)
 
-<t;bn jy ltqcndbntkmyj ytdf;yj/
-
-## Usage
+## Usagi
 
 ```
 $ ./Xerxes -H
