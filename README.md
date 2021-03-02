@@ -3,7 +3,7 @@
 # Херовата
 
 [![Build Status](https://travis-ci.org/sepehrdaddev/Xerxes.svg?branch=master)](https://mangadex.org/manga)
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://kill-la-kill.fandom.com/wiki/Satsuki_Kiry%C5%ABin)
+[![Porehub Premium](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.irk.kp.ru/daily/27241/4369468/)
 [![SSL: LibreSSL v2.9.1](https://img.shields.io/badge/SSL-LibreSSL%20v2.9.1-green.svg)](https://goatse.cc)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://goatse.cc)
 [![Version: 2.0beta](https://img.shields.io/badge/Version-2.0beta-blue.svg)](https://goatse.cc)
