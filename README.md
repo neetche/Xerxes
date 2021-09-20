@@ -3,7 +3,7 @@
 # Херовата
 
 [![Build Status](https://travis-ci.org/sepehrdaddev/Xerxes.svg?branch=master)](https://mangadex.org/manga)
-[![Porehub Premium](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.irk.kp.ru/daily/27241/4369468/)
+[![Porehub Premium](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://support.github.com/ticket/personal/0/1316506)
 [![SSL: LibreSSL v2.9.1](https://img.shields.io/badge/SSL-LibreSSL%20v2.9.1-green.svg)](https://goatse.cc)
 [![Platform: Linux](https://img.shields.io/badge/Platform-Linux-blue.svg)](https://goatse.cc)
 [![Version: 2.0beta](https://img.shields.io/badge/Version-2.0beta-blue.svg)](https://goatse.cc)
@@ -38,9 +38,10 @@ $ ./Xerxes -H
       --daemonize                       daemonize
 ```
 
-## License
+## 0/personal
 
-Не бойтесь форкнуть весь мир одним высером зараз.
+.NOW() IT'S PERSON AL
+
 
 ## LEGAL NOTICE
 
