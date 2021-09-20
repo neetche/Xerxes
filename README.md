@@ -44,8 +44,27 @@ $ ./Xerxes -H
 
 ## LEGAL NOTICE
 
-totallyeducational. By using this software, user agrees 2 terms of use, specified in uncensored BD version of Nande koko ni Sensei ga. Meaning, that UV watched it and burned into ur HiDPIs.
+SPL as use AL.
 
-## Get Involved
+## Service 503 Gratitude
 
-And nobody will find you.
+![1](https://user-images.githubusercontent.com/90988117/134024603-21ec3f84-c32f-48cb-8fe6-f48340a65746.jpg)
+
+
+## Please do not write below this line ##
+Discharger,
+
+
+Thank you for contacting GitHub Support. We wanted to let you know that we've received your message. We are experiencing high volumes and therefore, you may experience longer than normal wait times. In the meantime, you may find answers to commonly asked questions in our community forum or in our documentation.
+
+View or update your ticket here: Ticket 1316506 // RSX of additional incoming fun in teh koding
+
+
+If you have any additional information or would like to add anything to your initial message, now would be a great time. Click the ticket link above or reply to this email to do so. If not, then rest assured your request is in the right hands :)
+
+Thank you!
+The GitHub Support Team
+
+This email is a service from GitHub Support.
+
+
