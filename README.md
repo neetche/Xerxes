@@ -52,20 +52,9 @@ SPL as use AL.
 ![1](https://user-images.githubusercontent.com/90988117/134024603-21ec3f84-c32f-48cb-8fe6-f48340a65746.jpg)
 
 
-## Please do not write below this line ##
-Discharger,
+## 2666999
+These are works of fiction.There is no attempt made nor desire extant to libel or otherwise cause malicious damage, loss, public contempt, defamation, blasphemy, treason, sedition, or ridicule to persons, cabals, governments, institutions, corporations, or assemblies of inanimate objects; alien lifeforms, microorganisms, clergy, vegetables, animals, or observed spatio-temporal reality.
+If it is found that any extant entity or collection of entities maintains an uncomfortable congruence to the caricatures and ridiculous comedic exaggerations contained herein, the author offers his apologies and condolences...
 
-
-Thank you for contacting GitHub Support. We wanted to let you know that we've received your message. We are experiencing high volumes and therefore, you may experience longer than normal wait times. In the meantime, you may find answers to commonly asked questions in our community forum or in our documentation.
-
-View or update your ticket here: Ticket 1316506 // RSX of additional incoming fun in teh koding
-
-
-If you have any additional information or would like to add anything to your initial message, now would be a great time. Click the ticket link above or reply to this email to do so. If not, then rest assured your request is in the right hands :)
-
-Thank you!
-The GitHub Support Team
-
-This email is a service from GitHub Support.
-
-
+...and if you are still pissed off, you are invited to go pound sand up your ass.
+Conciliation has its limits.
