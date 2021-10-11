@@ -53,8 +53,8 @@ SPL as use AL.
 
 
 ## 2666999
-These are works of fiction.There is no attempt made nor desire extant to libel or otherwise cause malicious damage, loss, public contempt, defamation, blasphemy, treason, sedition, or ridicule to persons, cabals, governments, institutions, corporations, or assemblies of inanimate objects; alien lifeforms, microorganisms, clergy, vegetables, animals, or observed spatio-temporal reality.
-If it is found that any extant entity or collection of entities maintains an uncomfortable congruence to the caricatures and ridiculous comedic exaggerations contained herein, the author offers his apologies and condolences...
 
-...and if you are still pissed off, you are invited to go pound sand up your ass.
-Conciliation has its limits.
+
+
+...and if you are still pissed off, you are invited to go pound sand up your ass. // Thq 4 invitation. I'm free wees eve'.
+Conc/ili\ation has its limits. // If \u pipe the sand 4m/2 the ass, \ull get a Pelevins sandkok.
